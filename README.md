@@ -242,6 +242,9 @@
 
 *   Google Hacking
 
+    *   Google search find sub domains excluding home page
+         `site:microsoft.com -site:www.microsoft.com`
+
     *   Google search to find website sub domains  
         `site:microsoft.com`
 
